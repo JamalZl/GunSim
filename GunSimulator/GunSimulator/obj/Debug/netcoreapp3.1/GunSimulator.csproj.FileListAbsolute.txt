@@ -1,0 +1,14 @@
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.exe
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.deps.json
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.runtimeconfig.json
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.dll
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\bin\Debug\netcoreapp3.1\GunSimulator.pdb
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.AssemblyInfo.cs
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.dll
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.pdb
+C:\Users\User\Documents\C#\GunSimulator\GunSimulator\obj\Debug\netcoreapp3.1\GunSimulator.genruntimeconfig.cache
